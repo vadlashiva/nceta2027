@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.nceta2027.in/sitemap.xml
+Sitemap: https://vadlashiva.github.io/nceta2027/sitemap.xml
